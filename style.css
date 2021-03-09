@@ -1,0 +1,16 @@
+h1 {
+    font-family: Arial;
+    text-align: center;
+    border-style: dashed;
+    border-width: 10px;
+}
+
+#blog_par{
+    color:rgb(230, 49, 18);
+}
+
+.sec_tit{
+    color:#0BD49E;
+    text-align:center;
+}
+
